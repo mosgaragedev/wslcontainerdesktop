@@ -701,3 +701,5 @@ By building, installing, or running this software, you acknowledge and accept th
 This project is licensed under the **GNU General Public License v3.0** — see the [LICENSE](LICENSE) file for the full text.
 
 In short: you are free to use, study, modify, and share this software. If you distribute it — modified or not — you must make your version's complete source code available under the same GPLv3 terms. This keeps the project and any derivatives open; it prevents anyone from taking the code, making changes, and shipping it as a closed-source or proprietary commercial product. The GPLv3 also includes its own disclaimer of warranty and limitation of liability, which apply in addition to the [Disclaimer](#-disclaimer--no-warranty) above.
+#   w s l c o n t a i n e r d e s k t o p  
+ 
